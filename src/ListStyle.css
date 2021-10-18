@@ -1,0 +1,41 @@
+.list .userInput input{
+    font-size: 15px;
+    padding: 5px;
+    width: 300px;
+  }
+.list .userInput button{
+    margin: 10px;
+    padding:2px;
+    width: 50px;
+    background-color:darkcyan;
+    color:azure;
+}
+.list .listItems .clear{
+    width: 100px;
+    padding:2px;
+    margin-top: 50px;
+    background-color:darkcyan;
+    color:azure;
+}
+.items .item{
+    padding: 2px;
+    margin: 2px;
+}
+.items .editButton{
+    position: fixed;
+    right: 860px;
+    width: 50px;
+    padding:2px;
+    margin:2px;
+    background-color:darkcyan;
+    color:azure;
+}
+.items .deleteButton{
+    position: fixed;
+    right:800px;
+    margin:2px;
+    width: 50px;
+    padding:2px;
+    background-color:darkcyan;
+    color:azure;
+}
