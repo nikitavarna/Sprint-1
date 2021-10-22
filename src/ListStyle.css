@@ -3,20 +3,6 @@
     padding: 5px;
     width: 300px;
   }
-.list .userInput button{
-    margin: 10px;
-    padding:2px;
-    width: 50px;
-    background-color:darkcyan;
-    color:azure;
-}
-.list .listItems .clear{
-    width: 100px;
-    padding:2px;
-    margin-top: 50px;
-    background-color:darkcyan;
-    color:azure;
-}
 .items .item{
     padding: 2px;
     margin: 2px;
@@ -38,4 +24,7 @@
     padding:2px;
     background-color:darkcyan;
     color:azure;
+}
+.listItems{
+    margin-top: 30px;
 }
